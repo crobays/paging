@@ -1,11 +1,11 @@
 {
     "name": "crobays/paging",
-    "description": "Simple",
+    "description": "Low level CMS system",
     "version": "0.9.0",
     "authors": [
         {
             "name": "Maikel Vlasman",
-            "email": "0VxMFScFvK9wnCyB@userex.nl"
+            "email": "dKssgfE3L0Tspzhu@userex.nl"
         }
     ],
     "require": {
