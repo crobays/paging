@@ -1,0 +1,27 @@
+{
+    "name": "crobays/paging",
+    "description": "Simple",
+    "version": "0.9.0",
+    "authors": [
+        {
+            "name": "Maikel Vlasman",
+            "email": "0VxMFScFvK9wnCyB@userex.nl"
+        }
+    ],
+    "require": {
+        "php": ">=5.4.0",
+        "illuminate/support": "4.2.*"
+    },
+    "autoload": {
+        "psr-4": {
+            "Crobays\\Paging\\": "src/Crobays/Paging"
+        },
+        "classmap": [
+            "src/controllers"
+        ],
+        "files": [
+            "src/routes.php"
+        ]
+    },
+    "minimum-stability": "stable"
+}
